@@ -11,7 +11,7 @@
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=barirajamil1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   </p>
 
-  <p>🌐 <strong>Live Portfolio:</strong> <a href="https://barirajamil.github.io/">barirajamil.github.io</a></p>
+  <p>🌐 <strong>Live Portfolio:</strong> <a href="https://barirajamil1.github.io/">barirajamil1.github.io</a></p>
 
   <hr width="80%" />
 </div>
@@ -51,7 +51,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🌐 **[Personal Portfolio Website](https://barirajamil.github.io/)** | Modern responsive single-page portfolio with glassmorphism design. | HTML5, Tailwind CSS, GitHub Pages |
+| 🌐 **[Personal Portfolio Website](https://barirajamil1.github.io/)** | Modern responsive single-page portfolio with glassmorphism design. | HTML5, Tailwind CSS, GitHub Pages |
 | 🛡️ **TryHackMe SOC Labs** | Practical labs covering network traffic analysis & defensive security techniques. | Wireshark, Linux, Blue Team Tactics |
 
 ---
@@ -59,8 +59,8 @@
 ## 📬 Connect With Me
 
 - **Email:** [barirajamil1@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=barirajamil1@gmail.com)
-- **LinkedIn:** [linkedin.com/in/barirajamil1](https://linkedin.com/in/barirajamil)
-- **GitHub:** [github.com/BariraJamil](https://github.com/BariraJamil)
+- **LinkedIn:** [linkedin.com/in/barirajamil1](https://linkedin.com/in/barirajamil1)
+- **GitHub:** [github.com/BariraJamil1](https://github.com/BariraJamil1)
 - **TryHackMe:** [tryhackme.com/p/barirahere](https://tryhackme.com/p/barirahere)
 
 <div align="center">
